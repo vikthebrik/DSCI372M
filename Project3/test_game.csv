@@ -1,0 +1,18 @@
+,match_id,team,player,minute,second,x,y,shot_distance,shot_angle,body_part,technique,play_pattern,is_goal,competition_id,season_id
+9154,7477,Portland Thorns,Tobin Powell Heath,1,0,103.0,36.0,17.46424919657298,0.231090667195897,Right Foot,Normal,Regular Play,1,49,3
+9155,7477,Portland Thorns,Tobin Powell Heath,4,4,105.0,51.0,18.601075237738275,0.6327488350021832,Left Foot,Half Volley,From Throw In,0,49,3
+9156,7477,Utah Royals,Diana Matheson,9,24,103.0,33.0,18.384776310850235,0.3906070436976868,Right Foot,Normal,From Throw In,0,49,3
+9157,7477,Portland Thorns,Tobin Powell Heath,23,56,90.0,29.0,31.95309061734092,0.3514447940035517,Right Foot,Normal,From Throw In,0,49,3
+9158,7477,Portland Thorns,Hayley Emma Raso,27,42,94.0,36.0,26.30589287593181,0.1526493283952651,Right Foot,Normal,Regular Play,0,49,3
+9159,7477,Portland Thorns,Lindsey Michelle Horan,31,27,112.0,41.0,8.06225774829855,0.1243549945467614,Head,Normal,From Free Kick,1,49,3
+9160,7477,Portland Thorns,Ana-Maria Crnogorčević,33,21,107.0,47.0,14.7648230602334,0.4939413689195812,Left Foot,Normal,From Counter,1,49,3
+9161,7477,Portland Thorns,Hayley Emma Raso,45,10,107.0,45.0,13.92838827718412,0.3671738338182192,Head,Normal,Regular Play,0,49,3
+9162,7477,Utah Royals,Katrina Gorry,52,48,94.0,31.0,27.51363298439521,0.3332443011116727,Left Foot,Normal,Regular Play,0,49,3
+9163,7477,Portland Thorns,Ellie Madison Carpenter,55,25,89.0,66.0,40.45985664828782,0.697902822595057,Right Foot,Normal,Regular Play,0,49,3
+9164,7477,Portland Thorns,Tyler Lussi,58,27,103.0,43.0,17.26267650163207,0.1746721990082397,Right Foot,Normal,From Throw In,1,49,3
+9165,7477,Portland Thorns,Christine Margaret Sinclair,66,37,82.0,37.0,38.11823710509184,0.0787839609891438,Right Foot,Normal,From Throw In,0,49,3
+9166,7477,Utah Royals,Christen Annemarie Press,68,26,113.0,37.0,7.615773105863909,0.4048917862850834,Right Foot,Normal,From Free Kick,0,49,3
+9167,7477,Utah Royals,Christen Annemarie Press,73,24,105.0,24.0,21.93171219946131,0.8176450458327023,Right Foot,Normal,From Throw In,0,49,3
+9168,7477,Utah Royals,Katie Stengel,75,11,99.0,41.0,21.02379604162864,0.0475831032769833,Left Foot,Normal,From Throw In,0,49,3
+9169,7477,Utah Royals,Rachel Corsie,83,43,110.0,46.0,11.6619037896906,0.5404195002705842,Head,Normal,From Free Kick,0,49,3
+9170,7477,Utah Royals,Lo’eau LaBonta,84,59,91.0,41.0,29.017236257093817,0.034469100999508,Right Foot,Normal,From Throw In,0,49,3
